@@ -1,6 +1,6 @@
-NYC Taxi (2019) — Chunked ML Pipeline with Airflow (MWAA)
+NYC Taxi (2016) — Chunked ML Pipeline with Airflow (MWAA)
 
-This project processes ~10.9 million NYC taxi rows (2019), converts features to fully numeric, trains a machine-learning model on the first chunk locally, and uses Airflow (AWS MWAA) to automatically train on the remaining chunks. Outputs (metrics + models) land in Amazon S3.
+This project processes ~10.9 million NYC taxi rows (2016), converts features to fully numeric, trains a machine-learning model on the first chunk locally, and uses Airflow (AWS MWAA) to automatically train on the remaining chunks. Outputs (metrics + models) land in Amazon S3.
 
 📦 Tech Stack
 
